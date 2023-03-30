@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Min hemsida</title>
+</head>
+<body>
+	<header>
+		<h1>Välkommen till min hemsida</h1>
+		<nav>
+			<ul>
+				<li><a href="#">Hem</a></li>
+				<li><a href="#">Om oss</a></li>
+				<li><a href="#">Kontakta oss</a></li>
+			</ul>
+		</nav>
+	</header>
+	
+	<main>
+		<p>kort introduktionstext om hemsida.</p>
+	</main>
+	
+	<footer>
+		<p>&copy; 2023 - Min hemsida.</p>
+	</footer>
+</body>
+</html>
