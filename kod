@@ -1,26 +1,26 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Min hemsida</title>
+	<title>Min hemsida</title> <!--titlen för webbsidan-->
 </head>
 <body>
 	<header>
-		<h1>Välkommen till min hemsida</h1>
+		<h1>Välkommen till min hemsida</h1>	<!-- headern för hemsidan(det som står överst)-->
 		<nav>
 			<ul>
 				<li><a href="#">Hem</a></li>
 				<li><a href="#">Om oss</a></li>
-				<li><a href="#">Kontakta oss</a></li>
+				<li><a href="#">Kontakta oss</a></li>			<!--En nav bar med olika länkar-->
 			</ul>
 		</nav>
 	</header>
 	
 	<main>
-		<p>kort introduktionstext om hemsida.</p>
+		<p>kort introduktionstext om hemsida.</p> <!-- skriver vad hemsidan handla om -->
 	</main>
 	
 	<footer>
 		<p>&copy; 2023 - Min hemsida.</p>
-	</footer>
+	</footer> <!-- text längs ner på sidan -->
 </body>
 </html>
