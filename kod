@@ -1,26 +1,32 @@
 <!DOCTYPE html>
 <html>
+<meta charset="utf-8">
 <head>
-	<title>Min hemsida</title> <!--titlen för webbsidan-->
+	<!-- Flikens namn -->
+	<title>Min hemsida</title>
 </head>
 <body>
 	<header>
-		<h1>Välkommen till min hemsida</h1>	<!-- headern för hemsidan(det som står överst)-->
+		<!-- Titel -->
+		<h1>Välkommen till min hemsida</h1>
 		<nav>
 			<ul>
+				<!-- Navigering -->
 				<li><a href="#">Hem</a></li>
 				<li><a href="#">Om oss</a></li>
-				<li><a href="#">Kontakta oss</a></li>			<!--En nav bar med olika länkar-->
+				<li><a href="#">Kontakta oss</a></li>
 			</ul>
 		</nav>
 	</header>
-	
+	<!-- Info -->
 	<main>
-		<p>kort introduktionstext om hemsida.</p> <!-- skriver vad hemsidan handla om -->
+		<p>kort introduktionstext om hemsida.</p>
 	</main>
-	
+	<!-- footer med mer info samt kontaktinfo  -->
 	<footer>
 		<p>&copy; 2023 - Min hemsida.</p>
-	</footer> <!-- text längs ner på sidan -->
+		<p>Kontakt: jdjajdajdjadj</p>
+	</footer>
 </body>
 </html>
+
